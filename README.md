@@ -4,6 +4,7 @@ REST Urls exposed:
 
 1) Create User in app
 <deployed context path>/SimpleTwit/account/createAccount/{userName}/{userId}/{password}
+e.g: http://localhost:8080/SimpleTwit/account/createAccount/{userName}/{userId}/{password}
 
 2) Delete user from app
 <deployed context path>/SimpleTwit/account/deleteAccount/{userId}
